@@ -1,7 +1,6 @@
 # LAB-4-Hospital-Management
 ### NAME MOHAMMED IBRAHIM MN 
 ### REG NO 212223100034
-### DATE 09/04/25
 ### AIM:
 To develop the Hospital management System using Star UML tool.
 ### PROBLEM STATEMENT:
